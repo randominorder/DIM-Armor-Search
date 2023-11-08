@@ -29,11 +29,3 @@ is:armor
 )
 )
 
-
-is:warlock basestat:pvp:>=20 basestat:total:<=60 basestat:recres:<=20 -maxbasestatvalue:any 
-
-is:warlock
-basestat:strength&basestat:mobility:>=4
-
-is:hunter
-basestat:
